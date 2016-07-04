@@ -1,0 +1,225 @@
+,city,company,title,parsed_salary
+0,San Francisco,MarkMonitor,Data Scientist,180000.0
+1,San Francisco,Workbridge Associates,Senior Data Scientist,155000.0
+2,San Francisco,Mines.io,Full-Stack Data Scientist,100000.0
+3,San Francisco,Workbridge Associates,Data Scientist,165000.0
+4,San Francisco,Smith Hanley Associates,Data Scientist,140000.0
+5,San Francisco,HSF Consulting,VP of Data Services,300000.0
+6,San Francisco,All-In Analytics,Fraud Data Scientist,125000.0
+7,San Francisco,Brilent,Senior Data Scientist,130000.0
+8,San Francisco,HSF Consulting,Senior Data Scientist,160000.0
+10,San Francisco,Jobspring Partners,Python Developer (Machine Learning),162500.0
+11,San Francisco,University of California Berkeley,"Staff Research Associate, PMB",3850.0
+12,San Francisco,Workbridge Associates,Chief Algorithm Developer (Signal Processing) - Wearables,150000.0
+14,San Francisco,University of California Berkeley,Post-Doctoral Scholar-Employee: Analysis of omics data,47406.0
+15,San Francisco,Workbridge Associates,Principal Data Scientist,155000.0
+17,San Francisco,Workbridge Associates,Data Scientist (Econometrics),140000.0
+18,San Francisco,Workbridge Associates,Data Scientist (Statistics/Economics),120000.0
+19,San Francisco,Corporate Labs Technology,Data Scientist (Machine Learning),145000.0
+20,San Francisco,Brilent,Senior NLP Scientist/Engineer,150000.0
+21,San Francisco,Workbridge Associates,Senior Data Scientist (Autonomous Vehicle Research),170000.0
+22,San Francisco,3coast,VP - Predictive Modeling / Data Scientist,140000.0
+23,San Francisco,University of California Berkeley,"Database Administrator, GSE",74550.0
+24,San Francisco,"NextGen Jane, Inc.",Scientific Researcher,65000.0
+25,San Francisco,Jobspring Partners,Vice President Engineering (Big Data/ Machine Learning),227500.0
+29,San Francisco,Talent Compliance Consulting Services,Quality Control Scientist,100000.0
+31,San Francisco,California State University,"Administrative Analyst/Specialist, Exempt I - Office of Rese...",55200.0
+32,San Francisco,Workbridge Associates,"Senior Data Scientist (Python, R, recommendation)",120000.0
+33,San Francisco,Corporate Labs Technology,Data Scientist (Natural Language Processing),145000.0
+34,San Francisco,Workbridge Associates,Senior Data Scientist (FinTech),152500.0
+35,San Francisco,Workbridge Associates,"Staff Engineer, Machine Learning (Scala)",180000.0
+36,San Francisco,Workbridge Associates,Mid-Level Data Engineer,135000.0
+37,San Francisco,Workbridge Associates,Data Scientist - Python,130000.0
+38,San Francisco,Analytic Recruiting,Lead Data Scientist,160000.0
+39,San Francisco,Workbridge Associates,Director of Data Science (Mapping),175000.0
+44,San Francisco,LT,QA Engineer,125000.0
+45,San Francisco,LT,Java Developer,200000.0
+46,San Francisco,Galvanize,"Data Science Resident (DSR), Data Engineering Resident (DER)...",2500.0
+47,San Francisco,LT,Erlang Engineer,180000.0
+48,San Francisco,University of California Berkeley,Lecturer - Statistics - Department of Statistics (includes s...,49012.0
+49,San Francisco,Workbridge Associates,Senior Data Scientist (Healthcare),137500.0
+405,New York,AllianceBernstein,AVP/Quantitative Analyst,122500.0
+406,New York,Empiric Solutions,Data Scientist - Digital Marketing - Technology Start-Up,140000.0
+408,New York,Empiric Solutions,Data Scientist - Life Sciences,140000.0
+410,New York,Wade & Wendy,Data Scientist,100000.0
+411,New York,ADMIN FOR CHILDREN'S SVCS,Director of Qualitative Review & Evaluation Unit,97866.5
+412,New York,Selby Jennings,Data Scientist,150000.0
+413,New York,Technical Source,Data Scientist,200000.0
+414,New York,Datacom Technology Group,Quantitative Analyst (Fundamental Quant Equities) - Hedge Fu...,200000.0
+415,New York,HRA/DEPT OF SOCIAL SERVICES,DATA ANALYST,59984.5
+416,New York,TalentHub Worldwide,Data Scientist,105000.0
+417,New York,Smith Hanley Associates,Data Scientist,115000.0
+418,New York,Smart Host,Data Scientist (Lead),75000.0
+419,New York,Princeton Consulting,Data Scientist,150000.0
+423,New York,DEPT OF HEALTH/MENTAL HYGIENE,"Data Analyst, Bureau of Chronic Disease Prevention and Tobac...",76941.5
+424,New York,Infinity Consulting Solutions,Business Analyst ( Data),80000.0
+425,New York,Oliver James Associates,VP - Predictive Modeling Actuary,215000.0
+426,New York,"Execsolution, Inc.",Data Scientist,150000.0
+427,New York,Averity,Quantitative Analyst (Big Data Focus) at $10+ Billion Hedge...,250000.0
+428,New York,Helix Sleep,Senior Data Analyst,100000.0
+429,New York,"Insurance Fund, State",Quantitative Analyst,145000.0
+430,New York,Averity,Data Engineer (Partially Remote),100000.0
+431,New York,Wade & Wendy,Sr. Machine Learning Data Scientist,130000.0
+434,New York,Averity,Data Scientist (AML Experience),152500.0
+435,New York,Selby Jennings,Senior Data Scientist,170000.0
+436,New York,Averity,Junior Quantitative Analyst / Developer for $5B Hedge Fund,200000.0
+438,New York,Selby Jennings,Senior Quantitative/Machine Learning - Contract,
+439,New York,Health Research Incorporated,Research Scientist I,53875.0
+440,New York,Selby Jennings,VP Data Scientist,175000.0
+441,New York,Workbridge Associates,Senior Data Scientist,145000.0
+442,New York,Averity,Quantitative Data Scientist - Large Asset Manager,225000.0
+443,New York,DEPT OF HEALTH/MENTAL HYGIENE,"Senior Data Analyst, Bureau of Sexually Transmitted Disease...",88331.0
+444,New York,Research Foundation of The City University of New...,Water Quality Modeler,61500.0
+445,New York,ingenium,Big Data Engineer,150000.0
+446,New York,Analytic Recruiting,Senior Statistical Market Research Analyst,100000.0
+447,New York,NJF Search,Machine Learning Research Scientist - Hedgefund,200000.0
+449,New York,3coast,VP - Predictive Modeling / Data Scientist,140000.0
+450,New York,DEPT OF HEALTH/MENTAL HYGIENE,"Senior Data Analyst, Bureau of Sexually Transmitted Disease",76941.5
+452,New York,Atrium Staffing,SR. SCIENTIST,75000.0
+454,New York,DEPT OF ENVIRONMENT PROTECTION,Quality Assurance Officer,76941.5
+459,New York,DEPT OF HEALTH/MENTAL HYGIENE,"Project Coordinator, Bureau of HIV/AIDS Prevention and Contr...",64055.5
+460,New York,DEPARTMENT OF FINANCE,Policy Data Analyst,74119.5
+461,New York,Analytic Recruiting,Market Research Senior Analyst,85000.0
+462,New York,DEPT OF HEALTH/MENTAL HYGIENE,"Assurance Coordinator, Bureau of Sexually Transmitted Diseas...",88331.0
+463,New York,Analytic Recruiting,Market Research Analyst,65000.0
+464,New York,HOUSING PRESERVATION & DVLPMNT,Survey Methodologist,83500.0
+465,New York,Workbridge Associates,Data Scientist,120000.0
+466,New York,ADMIN FOR CHILDREN'S SVCS,Predictive Risk Analyst,76941.5
+467,New York,Jobspring Partners,Senior Data Scientist,135000.0
+468,New York,DEPT OF HEALTH/MENTAL HYGIENE,"Research Analyst, Bureau of Systems Strengthening and Access",76897.5
+469,New York,The Big Game Hunter,Predictive Analytics Professionals-- ROAD WARRIORS,140000.0
+470,New York,OFFICE OF LABOR RELATIONS,Program Coordinator,76941.5
+471,New York,DEPT OF HEALTH/MENTAL HYGIENE,"Surveillance analyst, Bureau of Communicable Diseases",64055.5
+472,New York,DEPT OF HEALTH/MENTAL HYGIENE,"Junior Research Analyst, Family and Child Health Administrat...",64055.5
+473,New York,POLICE DEPARTMENT,"STATISTICIAN, LEVEL I",51363.0
+474,New York,Workbridge Associates,Machine Learning Data Engineer,150000.0
+475,New York,Econtetni,Machine Learning Engineer Entry Level,65000.0
+478,New York,DEPT OF HEALTH/MENTAL HYGIENE,"Researcher and Data Analyst, Developmental Disabilities",64055.5
+479,New York,DEPT OF HEALTH/MENTAL HYGIENE,"Reportable Disease Analyst, Bureau of Communicable Diseases",88331.0
+480,New York,DEPT OF HEALTH/MENTAL HYGIENE,Molecular Biology Researcher,57969.0
+481,New York,FIRE DEPARTMENT,DATA ANALYST,76941.5
+482,New York,DEPARTMENT OF FINANCE,Property Valuation Modeler,71568.0
+483,New York,Health Research Incorporated,Program Research Specialist III,69749.0
+484,New York,Univision communications inc,"Analyst, Strategy & Insights – Custom Research",55000.0
+486,New York,DEPT OF HEALTH/MENTAL HYGIENE,"Evaluator/Statistician, Family and Child Health/Bureau of Sc...",76941.5
+487,New York,NJF Search,Statistician – Trading Firm,120000.0
+490,New York,ADMIN FOR CHILDREN'S SVCS,Child Welfare Analyst,76941.5
+491,New York,HOUSING PRESERVATION & DVLPMNT,Technical Researcher,64000.0
+492,New York,Research Foundation of The City University of New...,Research Analyst,52500.0
+493,New York,Smith Arnold Partners,Senior Research Analyst,57500.0
+494,New York,DEPT OF HEALTH/MENTAL HYGIENE,"HIV Phylogenetic Testing Group Leader, Bureau of Public Heal...",76941.5
+496,New York,Hire Solutions Inc.,JR. Full Stack Developer,200000.0
+497,New York,DEPT OF HEALTH/MENTAL HYGIENE,"Data Use and Research Analyst, Bureau of Vital Statistics",76941.5
+498,New York,Smith Arnold Partners,Research Analyst,45000.0
+499,New York,"Health, Department of",Assistant Research Scientist (Virology) - 34114,47799.5
+500,New York,University at Buffalo,Program Coordinator,47000.0
+501,New York,Analytic Recruiting,Executive Director of Data Governance,185000.0
+502,New York,Econtetni,Machine Learning Engineer,65000.0
+503,New York,AreteX Engineering,NSF-Sponsored Postdoctoral Fellow: EEG Analysis,75000.0
+504,New York,DEPT OF HEALTH/MENTAL HYGIENE,"Emergency Preparedness Coordinator, Bureau of Healthcare Sys...",64055.5
+507,New York,DEPT OF HEALTH/MENTAL HYGIENE,"Research Associate, Bureau of Systems Strengthening and Acce...",82065.5
+509,New York,Workbridge Associates,Lead Data Scientist,160000.0
+512,New York,Analytic Recruiting,Director of Predictive Analytics (Statistician),150000.0
+846,Austin,TechTank Staffing & Consulting Solutions,Data Scientist Programmer/Specialist,140000.0
+847,Austin,University of Texas at Austin,Research Scientist,8333.0
+848,Austin,University of Texas at Austin,Engineering Scientist - R and D Algorithm and System Develop...,8541.5
+849,Austin,University of Texas at Austin,Research Engineering/ Scientist Associate IV,6806.0
+850,Austin,All-In Analytics,Senior Deep Learning Data Scientist,150000.0
+851,Austin,University of Texas at Austin,Research Associate - R and D Data Scientist,8124.5
+852,Austin,University of Texas at Austin,Engineering Scientist Associate - GNSS Analyst Associate,5950.0
+853,Austin,Texas Department of Public Safety,"Statistician III-IV, HSOC, THP-Austin",4714.0
+854,Austin,University of Texas at Austin,Engineering Scientist Associate - R and D Software Developer,5950.0
+856,Austin,Dept of State Health Services,Linkage Specialist,4966.0
+857,Austin,Myriad Development,Research Analyst/Operations,35000.0
+858,Austin,University of Texas at Austin,Engineering Scientist - Underwater Robotics Algorithm Lead,8541.5
+859,Austin,Roc Search,Data Scientist - North Austin/80k/Analytics,85000.0
+860,Austin,University of Texas at Austin,Engineering Scientist - GNSS Analyst,8541.5
+861,Austin,Roland & Associates,Data Scientist - Big Data,160000.0
+862,Austin,University of Texas at Austin,Engineering Scientist Associate - Underwater Robotics Algori...,5950.0
+863,Austin,Myriad Development,Research Analyst/Customer Serv,35000.0
+865,Austin,University of Texas at Austin,Research Associate - Array Processing Scientist,8124.5
+867,Austin,University of Texas at Austin,Research Engineering/ Scientist Assistant - Laboratory Techn...,2333.0
+868,Austin,University of Texas at Austin,Research Engineering/ Scientist Associate IV - Spatial Data...,6388.0
+869,Austin,The University of Texas System,Institutional Research Analyst,4459.0
+871,Austin,Emoters Robotics,"Robotics software engineer (involves machine learning, AI, a...",85000.0
+872,Austin,Providence Partners,"Research Analyst (excel, analysis, client-facing)",65000.0
+874,Austin,JE Compliance,International Environmental Specialist,41000.0
+875,Austin,University of Texas at Austin,Engineering Scientist Associate - Software Defined Radio Rec...,5950.0
+876,Austin,University of Texas at Austin,Engineering Scientist - Senior Software Defined Radio Receiv...,8541.5
+877,Austin,University of Texas at Austin,Engineering Scientist - Geospatial Application Software Deve...,8541.5
+880,Austin,University of Texas at Austin,Research Engineering/ Scientist Associate II - Paleontology...,3210.0
+888,Austin,University of Texas at Austin,Engineering Scientist Associate - Software Engineering Assoc...,5950.0
+3527,Seattle,Prime Team Partners,Data Scientist,150000.0
+3528,Seattle,All-In Analytics,Digital Data Scientist,190000.0
+3529,Seattle,Harvey Nash USA,Data Science Engineer,135000.0
+3530,Seattle,Pullskill Technologies,Data Scientist (Software Engineering),120000.0
+3531,Seattle,All-In Analytics,"Sr. Data Scientist, Compensation Analytics",120000.0
+3532,Seattle,"Rakuten, Inc.",Software Development Engineer (Machine Learning),140000.0
+3534,Seattle,All-In Analytics,Data Scientist,150000.0
+3535,Seattle,All-In Analytics,Business Intelligence Data Scientist,135000.0
+3536,Seattle,University of Washington,RESEARCH STUDY COORDINATOR 2 (50%),3611.0
+3537,Seattle,All-In Analytics,Senior Business Intelligence Data Scientist,190000.0
+3538,Seattle,NuWest Group,Research Associate- CHO Cell Process Development,60000.0
+3539,Seattle,Washington State Government,PROPERTY AND EVIDENCE CUSTODIAN,2549.5
+3541,Seattle,University of Washington Medical Center,STOCKROOM ATTENDANT 2,2749.5
+3543,Seattle,University of Washington Medical Center,DRIVER-WAREHOUSE WORKER,3139.5
+3544,Seattle,University of Washington,RESEARCH STUDY ASSISTANT,2846.0
+3545,Seattle,University of Washington Medical Center,RESEARCH STUDY COORDINATOR 2 (50%),3611.0
+3546,Seattle,University of Washington Medical Center,SERVICE DESK ANALYST,4178.0
+3548,Seattle,University of Washington Medical Center,RESEARCH STUDY ASSISTANT,2846.0
+3550,Seattle,All-In Analytics,Senior Business Intelligence Scientist,190000.0
+3551,Seattle,King County,Trace Organics - Environmental Lab Scientist II,81078.0
+3552,Seattle,University of Washington Medical Center,PATIENT FINANCIAL SERVICES SPECIALIST 2,3072.5
+3553,Seattle,University of Washington Medical Center,OFFICE OPERATIONS AND ACCESSIONS ANALYST,3438.5
+3554,Seattle,University of Washington,OFFICE OPERATIONS AND ACCESSIONS ANALYST,3438.5
+3555,Seattle,University of Washington,MEDICAL LABORATORY SCIENTIST-TRAINEE OR 1,5098.0
+3559,Seattle,University of Washington Medical Center,COMPUTER MAINTENANCE TECHNICIAN 3,5619.5
+3562,Seattle,Department Of Veterans Affairs,Medical Technologist (Laboratory Information Manager),87313.5
+3563,Seattle,All-In Analytics,Business Intelligence Scientist,125000.0
+3564,Seattle,University of Washington Medical Center,CONTACT CENTER REPRESENTATIVE 1 - CANDIDATE BANK,3524.5
+3566,Seattle,University of Washington,STOCKROOM ATTENDANT 2,2749.5
+3567,Seattle,University of Washington,PATIENT FINANCIAL SERVICES SPECIALIST 2,3072.5
+3568,Seattle,All-In Analytics,Sr. Global Device Manager,162500.0
+3569,Seattle,Department of the Navy,Administrative Assistant,49222.5
+3570,Seattle,University of Washington Medical Center,"ELECTRONIC INVOICE SPECIALIST, HMC ACCTS PAYABLE",3699.5
+3571,Seattle,University of Washington,"ELECTRONIC INVOICE SPECIALIST, HMC ACCTS PAYABLE",3699.5
+3572,Seattle,University of Washington,CLINICAL LABORATORY TECHNICIAN 1,3466.0
+3574,Seattle,University of Washington,COMPUTER MAINTENANCE TECHNICIAN 3,5619.5
+3575,Seattle,University of Washington Medical Center,CHARGE CAPTURE COORDINATOR,3361.0
+3577,Seattle,University of Washington School of Medicine,Postdoc / Research Scientist,40000.0
+3578,Seattle,University of Washington,MEDICAL LABORATORY SCIENTIST 2,5686.5
+3579,Seattle,University of Washington,MEDICAL LABORATORY SCIENTIST 1 OR TRAINEE,4949.5
+3581,Seattle,University of Washington Medical Center,MEDICAL LABORATORY SCIENTIST 1 OR TRAINEE,4949.5
+3582,Seattle,University of Washington Medical Center,MEDICAL LABORATORY SCIENTIST 2,5686.5
+3583,Seattle,University of Washington Medical Center,MEDICAL LABORATORY SCIENTIST-TRAINEE OR 1,5098.0
+3616,Chicago,Workbridge Associates,Data Scientist,135000.0
+3617,Chicago,Etech Hi Inc.,Statistician,71000.0
+3618,Chicago,Workbridge Associates,Senior Data Scientist,140000.0
+3619,Chicago,Workbridge Associates,Data Analyst / Scientist,95000.0
+3620,Chicago,Hirewell,Data Scientist,85000.0
+3621,Chicago,North shore Staffing Group,Business Data Analyst,95000.0
+3622,Chicago,Smith Hanley Associates,Data Scientist,90000.0
+3623,Chicago,Workbridge Associates,Lead Data Scientist,160000.0
+3624,Chicago,Workbridge Associates,"Senior Data Scientist (Python, R) in Des Plaines",120000.0
+3625,Chicago,Jobspring Partners,Data Scientist,110000.0
+3626,Chicago,Analytic Recruiting,Lead Data Scientist,140000.0
+3627,Chicago,Smith Hanley Associates,(Sr.) Statistical Consultant,175000.0
+3629,Chicago,Smith Hanley Associates,Statistical Analyst,55000.0
+3630,Chicago,Workbridge Associates,Principal Data Scientist,165000.0
+3631,Chicago,3coast,Product Development Specialist - Food R&D,90000.0
+3632,Chicago,Workbridge Associates,"Manager of Data Science (Python, R)",185000.0
+3633,Chicago,Hirewell,Data Scientist -Fitness/Wellness Firm,120000.0
+3635,Chicago,NJF Search,"Quantitative Researcher, Machine Learning & Bayesian inferen...",200000.0
+3636,Chicago,Food Management Search,Food Scientist MS or PhD - Meat Products,85000.0
+3637,Chicago,Workbridge Associates,Lead Data Engineer,132500.0
+3638,Chicago,Workbridge Associates,Director of Data Analytics,170000.0
+3639,Chicago,Workbridge Associates,Senior Data Scientist (Deep Learning or NLP),130000.0
+3640,Chicago,Workbridge Associates,Director of Data Science,180000.0
+3641,Chicago,Penfield Search Partners,Assistant Director Biostatistics,185000.0
+3642,Chicago,ITStaff Technical Resources,Technical Project Manager/Business Analyst,85000.0
+3644,Chicago,Jobspring Partners,Data Engineer,90000.0
+3645,Chicago,Selby Jennings,"Equity Research Analyst – Biotech - Chicago, IL",137500.0
+3646,Chicago,Penfield Search Partners,Associate Director Statistics Phase I,185000.0
+3647,Chicago,Jobspring Partners,Mid-Level C# .NET Software Engineer,90000.0
+3648,Chicago,Clinical Management Consultants,Manager Health Information Management Data Analysis HIM,82329.0
+3652,Chicago,Workbridge Associates,Senior Java Computer Scientist,130000.0
