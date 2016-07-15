@@ -11,7 +11,7 @@ From [NASA's 2016 Space App Challenge](https://2016.spaceappschallenge.org/chall
 
 *Problem Statement Summary*
 
-Utilizing provided data from the Minor Planet Center, and NASA's NEOWISE, is it possible to build a predictive model - based on machine learning algorithms - that can accurately detect and characterize Near Earth Objects on a trajectory for Earth?  
+Utilizing provided data from the Minor Planet Center, and NASA's NEOWISE, is it possible to build a predictive model - based on machine learning algorithms - that can accurately detect and characterize Near Earth Objects on a trajectory for Earth?  If successful, such a model could be sufficient to add to the body of work found in the Astroid Grand Challenge and further impact our ability to protect our Earth from sharing the same fate as the dinosaurs.  
 
 
 
