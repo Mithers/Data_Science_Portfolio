@@ -1,5 +1,4 @@
-\usepackage{hyperref}
-# Portfolio
+#Portfolio
 My ongoing portfolio showcasing Data Science and Programming Projects
 
 #Capstone Project
