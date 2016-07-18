@@ -1,0 +1,26 @@
+rating,tconst,title,image,num_votes,year,can_rate,type
+9.3,tt0111161,The Shawshank Redemption,"{u'url': u'http://ia.media-imdb.com/images/M/MV5BODU4MjU4NjIwNl5BMl5BanBnXkFtZTgwMDU2MjEyMDE@._V1_.jpg', u'width': 933, u'height': 1388}",1678520,1994,True,feature
+9.2,tt0068646,The Godfather,"{u'url': u'http://ia.media-imdb.com/images/M/MV5BMjEyMjcyNDI4MF5BMl5BanBnXkFtZTcwMDA5Mzg3OA@@._V1_.jpg', u'width': 333, u'height': 500}",1148435,1972,True,feature
+9,tt0071562,The Godfather: Part II,"{u'url': u'http://ia.media-imdb.com/images/M/MV5BNDc2NTM3MzU1Nl5BMl5BanBnXkFtZTcwMTA5Mzg3OA@@._V1_.jpg', u'width': 333, u'height': 500}",785332,1974,True,feature
+9,tt0468569,The Dark Knight,"{u'url': u'http://ia.media-imdb.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg', u'width': 1383, u'height': 2048}",1663710,2008,True,feature
+8.9,tt0108052,Schindler's List,"{u'url': u'http://ia.media-imdb.com/images/M/MV5BMzMwMTM4MDU2N15BMl5BanBnXkFtZTgwMzQ0MjMxMDE@._V1_.jpg', u'width': 439, u'height': 679}",859037,1993,True,feature
+8.9,tt0050083,12 Angry Men,"{u'url': u'http://ia.media-imdb.com/images/M/MV5BODQwOTc5MDM2N15BMl5BanBnXkFtZTcwODQxNTEzNA@@._V1_.jpg', u'width': 682, u'height': 1023}",444048,1957,True,feature
+8.9,tt0110912,Pulp Fiction,"{u'url': u'http://ia.media-imdb.com/images/M/MV5BMTkxMTA5OTAzMl5BMl5BanBnXkFtZTgwNjA5MDc3NjE@._V1_.jpg', u'width': 1010, u'height': 1500}",1315694,1994,True,feature
+8.9,tt0167260,The Lord of the Rings: The Return of the King,"{u'url': u'http://ia.media-imdb.com/images/M/MV5BMjE4MjA1NTAyMV5BMl5BanBnXkFtZTcwNzM1NDQyMQ@@._V1_.jpg', u'width': 350, u'height': 519}",1207822,2003,True,feature
+8.9,tt0060196,"The Good, the Bad and the Ugly","{u'url': u'http://ia.media-imdb.com/images/M/MV5BOTQ5NDI3MTI4MF5BMl5BanBnXkFtZTgwNDQ4ODE5MDE@._V1_.jpg', u'width': 1344, u'height': 2048}",500171,1966,True,feature
+8.8,tt0137523,Fight Club,"{u'url': u'http://ia.media-imdb.com/images/M/MV5BNGM2NjQxZTAtMmU5My00YTk5LWFmOWMtYjZlYzk4YzMwNjFlXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg', u'width': 1600, u'height': 2400}",1337707,1999,True,feature
+8.8,tt0120737,The Lord of the Rings: The Fellowship of the Ring,"{u'url': u'http://ia.media-imdb.com/images/M/MV5BNTEyMjAwMDU1OV5BMl5BanBnXkFtZTcwNDQyNTkxMw@@._V1_.jpg', u'width': 342, u'height': 500}",1231064,2001,True,feature
+8.8,tt0080684,Star Wars: Episode V - The Empire Strikes Back,"{u'url': u'http://ia.media-imdb.com/images/M/MV5BMjE2MzQwMTgxN15BMl5BanBnXkFtZTcwMDQzNjk2OQ@@._V1_.jpg', u'width': 338, u'height': 500}",831550,1980,True,feature
+8.8,tt0109830,Forrest Gump,"{u'url': u'http://ia.media-imdb.com/images/M/MV5BMTI1Nzk1MzQwMV5BMl5BanBnXkFtZTYwODkxOTA5._V1_.jpg', u'width': 331, u'height': 475}",1241365,1994,True,feature
+8.8,tt1375666,Inception,"{u'url': u'http://ia.media-imdb.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg', u'width': 700, u'height': 1037}",1457221,2010,True,feature
+8.7,tt0167261,The Lord of the Rings: The Two Towers,"{u'url': u'http://ia.media-imdb.com/images/M/MV5BMTAyNDU0NjY4NTheQTJeQWpwZ15BbWU2MDk4MTY2Nw@@._V1_.jpg', u'width': 350, u'height': 512}",1093160,2002,True,feature
+8.7,tt0073486,One Flew Over the Cuckoo's Nest,"{u'url': u'http://ia.media-imdb.com/images/M/MV5BMTk5OTA4NTc0NF5BMl5BanBnXkFtZTcwNzI5Mzg3OA@@._V1_.jpg', u'width': 375, u'height': 500}",675708,1975,True,feature
+8.7,tt0099685,Goodfellas,"{u'url': u'http://ia.media-imdb.com/images/M/MV5BMTY2OTE5MzQ3MV5BMl5BanBnXkFtZTgwMTY2NTYxMTE@._V1_.jpg', u'width': 337, u'height': 500}",723611,1990,True,feature
+8.7,tt0133093,The Matrix,"{u'url': u'http://ia.media-imdb.com/images/M/MV5BMTkxNDYxOTA4M15BMl5BanBnXkFtZTgwNTk0NzQxMTE@._V1_.jpg', u'width': 334, u'height': 500}",1209621,1999,True,feature
+8.7,tt0047478,Seven Samurai,"{u'url': u'http://ia.media-imdb.com/images/M/MV5BMTc5MDY1MjU5MF5BMl5BanBnXkFtZTgwNDM2OTE4MzE@._V1_.jpg', u'width': 1354, u'height': 1900}",227651,1954,True,feature
+8.7,tt0076759,Star Wars: Episode IV - A New Hope,"{u'url': u'http://ia.media-imdb.com/images/M/MV5BOTIyMDY2NGQtOGJjNi00OTk4LWFhMDgtYmE3M2NiYzM0YTVmXkEyXkFqcGdeQXVyNTU1NTcwOTk@._V1_.jpg', u'width': 831, u'height': 1270}",904997,1977,True,feature
+8.7,tt0317248,City of God,"{u'url': u'http://ia.media-imdb.com/images/M/MV5BMjA4ODQ3ODkzNV5BMl5BanBnXkFtZTYwOTc4NDI3._V1_.jpg', u'width': 400, u'height': 593}",529997,2002,True,feature
+8.6,tt0114369,Se7en,"{u'url': u'http://ia.media-imdb.com/images/M/MV5BMTQwNTU3MTE4NF5BMl5BanBnXkFtZTcwOTgxNDM2Mg@@._V1_.jpg', u'width': 326, u'height': 500}",1016176,1995,True,feature
+8.6,tt0102926,The Silence of the Lambs,"{u'url': u'http://ia.media-imdb.com/images/M/MV5BMTQ2NzkzMDI4OF5BMl5BanBnXkFtZTcwMDA0NzE1NA@@._V1_.jpg', u'width': 682, u'height': 1023}",880780,1991,True,feature
+8.6,tt0038650,It's a Wonderful Life,"{u'url': u'http://ia.media-imdb.com/images/M/MV5BMTMzMzY5NDc4M15BMl5BanBnXkFtZTcwMzc4NjIxNw@@._V1_.jpg', u'width': 1372, u'height': 2048}",273973,1946,True,feature
+8.6,tt0114814,The Usual Suspects,"{u'url': u'http://ia.media-imdb.com/images/M/MV5BMzI1MjI5MDQyOV5BMl5BanBnXkFtZTcwNzE4Mjg3NA@@._V1_.jpg', u'width': 682, u'height': 1023}",735992,1995,True,feature
