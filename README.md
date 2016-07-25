@@ -1,6 +1,20 @@
 #Portfolio
 My ongoing portfolio showcasing Data Science and Programming Projects
 
+#General Assembly
+
+Project 1: SAT Scores + Summary Statistics
+Project 2: Billboard Hits + Data Munging
+Project 3: Liquor Sales + Linear Regression
+Project 4: Web Scraping + Logistic Regression
+Project 5: Disaster Relief + Classification
+Project 6: IMDB API + Random Forests
+Project 7: Airport Delays + Cluster Analysis
+
+All solutions found in the the jupyter notebook residing in the corresponding project's "solutions" folder.
+
+Readme for each project describes parameters of the project and purpose of the code.
+
 #Capstone Project 
 
 The [Astroid Grand Challenge](https://www.nasa.gov/feature/what-is-the-asteroid-grand-challenge) is a large scale effort together by NASA, utilizing multiple industries and disciplines, to better detect and predict astroid threats in our solar system and protect the Earth from a wide-scale tragedy.
