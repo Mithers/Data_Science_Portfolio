@@ -3,13 +3,13 @@ My ongoing portfolio showcasing Data Science and Programming Projects
 
 #General Assembly
 
-Project 1: SAT Scores + Summary Statistics
-Project 2: Billboard Hits + Data Munging
-Project 3: Liquor Sales + Linear Regression
-Project 4: Web Scraping + Logistic Regression
-Project 5: Disaster Relief + Classification
-Project 6: IMDB API + Random Forests
-Project 7: Airport Delays + Cluster Analysis
+- Project 1: SAT Scores + Summary Statistics
+- Project 2: Billboard Hits + Data Munging
+- Project 3: Liquor Sales + Linear Regression
+- Project 4: Web Scraping + Logistic Regression
+- Project 5: Disaster Relief + Classification
+- Project 6: IMDB API + Random Forests
+- Project 7: Airport Delays + Cluster Analysis
 
 All solutions found in the the jupyter notebook residing in the corresponding project's "solutions" folder.
 
