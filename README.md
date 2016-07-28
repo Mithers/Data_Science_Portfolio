@@ -13,7 +13,7 @@ My ongoing portfolio showcasing Data Science and Programming Projects
 
 All solutions found in the the jupyter notebook residing in the corresponding project's "solutions" folder.
 
-Readme for each project describes parameters of the project and purpose of the code.
+readme for each project describes parameters of the project and purpose of the code.
 
 #Capstone Project 
 
