@@ -14,8 +14,6 @@ My ongoing portfolio showcasing Data Science and Programming Projects
 During my tenure at General Assembly I completed 7 projects that served to showcase my skill sets and understanding of machine learning, statistics, python, and practical application of Data Science methodologies to real world problems.
 The readme files serve as  a primer to understanding the code and approach taken.  All solutions can be found in the corresponding project's "solutions" folder - labeled as that project's name.
 
-readme for each project describes parameters of the project and purpose of the code.
-
 #Project NEO  
 
 The [Astroid Grand Challenge](https://www.nasa.gov/feature/what-is-the-asteroid-grand-challenge) is a large scale effort together by NASA, utilizing multiple industries and disciplines, to better detect and predict astroid threats in our solar system and protect the Earth from a wide-scale tragedy.
