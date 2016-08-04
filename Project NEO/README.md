@@ -1,4 +1,4 @@
-#Capstone Project 
+  #Project NEO
 
 The [Astroid Grand Challenge](https://www.nasa.gov/feature/what-is-the-asteroid-grand-challenge) is a large scale effort together by NASA, utilizing multiple industries and disciplines, to better detect and predict astroid threats in our solar system and protect the Earth from a wide-scale tragedy.  The AGC estimates suggest less than 10% of objects smaller than 300 meters in diameter and less than 1% of objects smaller than 100 meters in diameter have been discovered, and it will take a global effort with innovative solutions to accelerate the completion of the survey of potentially hazardous asteroids.
 
