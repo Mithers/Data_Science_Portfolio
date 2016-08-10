@@ -14,7 +14,12 @@ My ongoing portfolio showcasing Data Science and Programming Projects
 During my tenure at General Assembly I completed 7 projects that served to showcase my skill sets and understanding of machine learning, statistics, python, and practical application of Data Science methodologies to real world problems.
 The readme files serve as  a primer to understanding the code and approach taken.  All solutions can be found in the corresponding project's "solutions" folder - labeled as that project's name.
 
-#Project NEO  
+#Project Miles Ahead(In Progress)  
+Building off of the [Deep Jazz](https://github.com/jisungk/deepjazz) project conducted by Ji-Sung Kim - Project "Miles Ahead" will attempt to enhance Deep Learning Jazz Generation by utilizing [TensorFlow](https://www.tensorflow.org/).
+
+*Project is in progress and will be updated as work is completed.*  
+
+#Project NEO(In Progress)  
 
 The [Astroid Grand Challenge](https://www.nasa.gov/feature/what-is-the-asteroid-grand-challenge) is a large scale effort together by NASA, utilizing multiple industries and disciplines, to better detect and predict astroid threats in our solar system and protect the Earth from a wide-scale tragedy.
 
@@ -26,5 +31,5 @@ From [NASA's 2016 Space App Challenge](https://2016.spaceappschallenge.org/chall
 
 Utilizing provided data from the Minor Planet Center, and NASA's NEOWISE, is it possible to build a predictive model - based on machine learning algorithms - that can accurately detect and characterize Near Earth Objects on a trajectory for Earth?  If successful, such a model could be sufficient to add to the body of work found in the Astroid Grand Challenge and further impact our ability to protect our Earth from sharing the same fate as the dinosaurs.  
 
-
+*Project is in progress and will be updated as work is completed.*  
 
