@@ -14,6 +14,8 @@ My ongoing portfolio showcasing Data Science and Programming Projects
 During my tenure at General Assembly I completed 7 projects that served to showcase my skill sets and understanding of machine learning, statistics, python, and practical application of Data Science methodologies to real world problems.
 The readme files serve as  a primer to understanding the code and approach taken.  All solutions can be found in the corresponding project's "solutions" folder - labeled as that project's name.
 
+Skills Showcased:  Python | SQL | Tableau | Machine Learning | Web Scraping | Regex | Pandas | NumPy | Linear & Logistic Regression modeling | Random Forests | NLP | AWS | Technical Writing | Object Oriented Programing
+
 #Project Miles Ahead(In Progress)  
 Building off the TensorFlow model [Magenta](https://github.com/tensorflow/magenta), Project "Miles Ahead" will attempt to enhance Deep Learning Jazz Generation by enhancing the recurrent neural network "Lookback RNN".
 
