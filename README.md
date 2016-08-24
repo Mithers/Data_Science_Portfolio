@@ -1,7 +1,7 @@
 #Portfolio
 My ongoing portfolio showcasing Data Science and Programming Projects
 
-#Data Science Portfolio
+# GA Data Science Portfolio
 
 - Project 1: SAT Scores + Summary Statistics
 - Project 2: Billboard Hits + Data Munging
