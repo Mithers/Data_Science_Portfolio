@@ -17,9 +17,9 @@ The readme files serve as  a primer to understanding the code and approach taken
 Skills Showcased:  Python | SQL | Tableau | Machine Learning | Web Scraping | Regex | Pandas | NumPy | Linear & Logistic Regression modeling | Random Forests | NLP | AWS | Technical Writing | Object Oriented Programing
 
 #Project Miles Ahead(In Progress)  
-Building off the TensorFlow model [Magenta](https://github.com/tensorflow/magenta), Project "Miles Ahead" will attempt to enhance Deep Learning Jazz Generation by enhancing the recurrent neural network "Lookback RNN".
+Building off the TensorFlow model [magenta](https://github.com/tensorflow/magenta), Project "Miles Ahead" attempts to expand Deep Learning Jazz Generation by enhancing the recurrent neural network "Lookback RNN".
 
-Through the use of Music21 and matplotlib, I then perform Exploratory Data Analysis and robust Data Visualization to explore the music created by the model.  Utilizing the same comparison on music created legendary jazz pianist, Bill Evans, I will seek insight in to the "humanity" of the computer generated music.
+In addition, through the use of Music21 and matplotlib, Project Miles Ahead will conduct Exploratory Data Analysis and robust Data Visualization to explore the music created by the model.  Utilizing the same comparison on music created by legendary jazz pianist, Bill Evans, this project seeks insight in to the "humanity" of the computer generated music.
 
 *Project is in progress and will be updated as work is completed.*  
 
