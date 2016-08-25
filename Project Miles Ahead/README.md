@@ -5,6 +5,10 @@ In addition, through the use of Music21 and matplotlib, Project Miles Ahead will
 
 *Project still in progress and will be updated over time.*
 
+###For a high level overview of the project take a look at the "Miles Ahead Presentaion" pdf file.  For a deeper dive, head over to the Exploratory Data Analysis section.
+
+#Take a listen
+
 [![SoundCloud](https://jisungk.github.io/deepjazz/img/button_soundcloud.png)](https://soundcloud.com/chris-shoe-523970434/project-miles-solo)
 
 ###Dependencies
