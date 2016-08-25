@@ -5,7 +5,7 @@ In addition, through the use of Music21 and matplotlib, Project Miles Ahead will
 
 *Project still in progress and will be updated over time.*
 
-[![SoundCloud](https://jisungk.github.io/deepjazz/img/button_soundcloud.png)](https://soundcloud.com/chris-shoe-523970434/project-miles-melody)
+[![SoundCloud](https://jisungk.github.io/deepjazz/img/button_soundcloud.png)](https://soundcloud.com/chris-shoe-523970434/project-miles-solo)
 
 ###Dependencies
 
