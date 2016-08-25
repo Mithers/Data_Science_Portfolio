@@ -4,11 +4,14 @@ Utilizing Music 21 and matplotlib, Project Miles Ahead will conduct Exploratory 
 
 Run `parser.py` in command line to extract the following:
 
-notes: Note/Rest, Octave, Len, Offset
+notes: Note/Rest, Octave, Len, Offset:
 
 ![notes](https://github.com/Mithers/Portfolio/blob/master/Project%20Miles%20Ahead/Assets/notes.png)
 
-chords: FullName, CommonName, Len, Offset
+chords: FullName, CommonName, Len, Offset:
 
 ![chords](https://github.com/Mithers/Portfolio/blob/master/Project%20Miles%20Ahead/Assets/chords.png)
 
+This allows you to put that information in to a pandas data frame and perform analysis.
+
+##See jupyter notebook for actual analysis.
