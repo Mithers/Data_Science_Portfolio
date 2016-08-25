@@ -6,9 +6,9 @@ Run `parser.py` in command line to extract the following:
 
 notes: Note/Rest, Octave, Len, Offset
 
-![notes](https://cloud.githubusercontent.com/assets/9053987/16575656/901989da-424f-11e6-9f54-6a04199e69f5.png)
+![notes](https://github.com/Mithers/Portfolio/blob/master/Project%20Miles%20Ahead/Assets/notes.png)
 
 chords: FullName, CommonName, Len, Offset
 
-![chords](https://photos-6.dropbox.com/t/2/AABiNW3n6W1LVxJzAnZDuwX1nBScZ3kdh24yBeS2POifrg/12/545933619/png/32x32/1/_/1/2/chords.png/EJHotK8EGLT3BCACKAI/HBTCEhGYIeKXIJlJERAA8zpbbg1HtprRnzn6eY_BTRQ?size=2048x1536&size_mode=3)
+![chords](https://github.com/Mithers/Portfolio/blob/master/Project%20Miles%20Ahead/Assets/chords.png)
 
