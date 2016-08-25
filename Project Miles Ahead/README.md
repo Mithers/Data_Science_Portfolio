@@ -3,6 +3,8 @@ Building off the TensorFlow model [magenta](https://github.com/tensorflow/magent
 
 In addition, through the use of Music21 and matplotlib, Project Miles Ahead will conduct Exploratory Data Analysis and robust Data Visualization to explore the music created by the model.  Utilizing the same comparison on music created by legendary jazz pianist, Bill Evans, this project seeks insight in to the "humanity" of the computer generated music.
 
+*Project still in progress and will be updated over time.*
+
 ###Dependencies
 
 - [magenta](https://github.com/tensorflow/magenta)
@@ -13,7 +15,9 @@ In addition, through the use of Music21 and matplotlib, Project Miles Ahead will
 
 Project Miles ahead was conducted in a remote server environment utilizing [Linode](https://www.linode.com/) and an [Ubuntu](http://www.ubuntu.com/) framework.  It is advised if replicating the project to utilize a similar infrastructure due to the processing requirements of the TensorFlow library.
 
-1) Run `midi_db.sh` on remote server:
+1) Modify built in `melody_encoder_decoder.py` file with `melody_generator.py` contents.
+
+2) Run `midi_db.sh` on remote server:
 
 ```
 midi_db.sh
@@ -21,11 +25,11 @@ midi_db.sh
 
 Note: `midi_db.sh` can be edited to utilize larger batch sizes if your processor can handle it.  Also make sure to adjust `num_training_steps` if you do not want to run 20,000 training steps.
 
-2) Sit back and enjoy a fine beverage with one of your favorite jazz records - it's gonna be a while.
+3) Sit back and enjoy a fine beverage with one of your favorite jazz records - it's gonna be a while.
 
-3) Hey! Wake up! Your models are done!
+4) Hey! Wake up! Your models are done!
 
-4) Run `melody_creation.sh` to generate melodies.  
+5) Run `melody_creation.sh` to generate melodies.  
 
 Note: `melody_creation.sh` can be edited to change location of midi files by changing `--output_dir`.
 
