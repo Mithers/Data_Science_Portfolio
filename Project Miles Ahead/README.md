@@ -9,7 +9,7 @@ In addition, through the use of Music21 and matplotlib, Project Miles Ahead will
 
 #Take a listen
 
-[![SoundCloud](https://jisungk.github.io/deepjazz/img/button_soundcloud.png)](https://soundcloud.com/chris-shoe-523970434/project-miles-solo)
+[![SoundCloud](https://jisungk.github.io/deepjazz/img/button_soundcloud.png)](https://soundcloud.com/chris-shoe-523970434/project_miles_solo)
 
 ###Dependencies
 
