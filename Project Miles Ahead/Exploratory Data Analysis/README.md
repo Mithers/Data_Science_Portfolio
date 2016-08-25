@@ -14,4 +14,4 @@ chords: FullName, CommonName, Len, Offset:
 
 This allows you to put that information in to a pandas data frame and perform analysis.
 
-##See jupyter notebook for actual analysis.
+##See jupyter notebook entitled "EDA.ipynb" for actual analysis.

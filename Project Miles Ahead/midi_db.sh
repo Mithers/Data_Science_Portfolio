@@ -44,7 +44,7 @@ bazel build //magenta/models/lookback_rnn:lookback_rnn_train
 #Using smaller batch sizes can help reduce memory usage, 
 #which can resolve potential out-of-memory issues when training larger models.
 --hparams="{'batch_size':64,'rnn_layer_sizes':[64,64]}" \
---num_training_steps=20000
+--num_training_steps=13500
 
 #Run TensorBoard to view the training and evaluation data.
 #tensorboard --logdir=/tmp/lookback_rnn/logdir
