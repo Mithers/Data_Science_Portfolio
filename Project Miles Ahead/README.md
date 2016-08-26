@@ -14,16 +14,16 @@ generated using the modified TensforFlow magenta model using 13,500 steps/epochs
 
 A sample of the Mile's solo in score form:
 
-![score](https://github.com/Mithers/Miles_Ahead/blob/master/assets/miles_score.png)
+![score](https://github.com/Mithers/Portfolio/blob/master/Project%20Miles%20Ahead/Assets/miles_score.png)
 
 ### EDA Examples
 Graphing the miles solo as keyboard patterns:
 
-![miles_keyboard](https://github.com/Mithers/Miles_Ahead/blob/master/assets/miles_keyboard.png)
+![miles_keyboard](https://github.com/Mithers/Portfolio/blob/master/Project%20Miles%20Ahead/Assets/Miles_Keyboard.png)
 
 Miles solo rhythmic patterns as applied to a kmeans clustering:
 
-![miles_kmeans](https://github.com/Mithers/Miles_Ahead/blob/master/assets/miles_kmeans.png)
+![miles_kmeans](https://github.com/Mithers/Portfolio/blob/master/Project%20Miles%20Ahead/Assets/miles_Kmeans.png)
 
 ###Dependencies
 
