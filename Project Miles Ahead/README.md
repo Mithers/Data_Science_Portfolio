@@ -1,7 +1,7 @@
 #Project Miles Ahead  
 Building off the TensorFlow model [magenta](https://github.com/tensorflow/magenta), Project "Miles Ahead" attempts to expand Deep Learning Jazz Generation by enhancing the recurrent neural network "Lookback RNN".
 
-In addition, through the use of Music21 and matplotlib, Project Miles Ahead will conduct Exploratory Data Analysis and robust Data Visualization to explore the music created by the model.  Utilizing the same comparison on music created by legendary jazz pianist, Bill Evans, this project seeks insight in to the "humanity" of the computer generated music.
+In addition, through the use of Music21 and matplotlib, Project Miles Ahead will conduct Exploratory Data Analysis and robust Data Visualization to explore the music created by the model.  Utilizing the same comparison on music created by legendary jazz pianist, Bill Evans, this project seeks insight in to the "humanity" of the computer generated music. 
 
 *Project still in progress and will be updated over time.*
 
