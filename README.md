@@ -1,5 +1,6 @@
 ### Data Science Portfolio
-## This portfolio is pretty dated and reflects the work I did as I was trying to become a Data Scientist, for a more modern look at my work go to: [www.christophershoe.com](https://www.christophershoe.com).
+
+## This portfolio is pretty dated and reflects the work I did when I was trying to become a Data Scientist - for a more recent look at my work go to: [wwww.christophershoe.com](https://www.christophershoe.com).
 
 # GA Data Science Portfolio
 
