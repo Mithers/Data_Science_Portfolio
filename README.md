@@ -1,6 +1,6 @@
 ### Data Science Portfolio
 
-## This portfolio is pretty dated and reflects the work I did when I was trying to become a Data Scientist - for a more recent look at my work go to: [wwww.christophershoe.com](https://mithers.github.io/react-portfolio/).
+## This portfolio is pretty dated and reflects the work I did when I was trying to become a Data Scientist - for a more recent look at my work go to: [wwww.christophershoe.com](https://mithers.github.io/portfolio/).
 
 # GA Data Science Portfolio
 
